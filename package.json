@@ -28,6 +28,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "fest": "^0.11.0"
+    "fest": "^0.12.0"
   }
 }
