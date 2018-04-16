@@ -1,7 +1,5 @@
 # jstransformer-fest
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-fest.svg)](https://greenkeeper.io/)
-
 [Fest](http://npm.im/fest) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-fest/master.svg)](https://travis-ci.org/jstransformers/jstransformer-fest)
